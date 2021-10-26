@@ -1,0 +1,24 @@
+.finalMessage {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	letter-spacing: 4px;
+	text-align: center;
+	position: relative;
+	padding: 0 40px 15px;
+}
+.gainAlert {
+	bottom: 0;
+	right: 0;
+
+	padding: 5px;
+	border-radius: 7px;
+
+	font-size: 20px;
+	transform: rotate(-20deg);
+	position: absolute;
+}
+.gainAlert p {
+	margin: 0;
+	color: white;
+}

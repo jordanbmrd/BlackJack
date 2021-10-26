@@ -1,0 +1,20 @@
+.betButton {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+	color: #ed5353;
+	background-color: #f2bcbc;
+	border-radius: 30px;
+	width: 70px;
+	height: 40px;
+	padding: 0 10px;
+}
+.betButton p {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 20px;
+	text-align: center;
+
+	margin: 0;
+	width: 100px;
+}

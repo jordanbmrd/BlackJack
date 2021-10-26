@@ -1,0 +1,32 @@
+.betScreen {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+
+	height: 100vh;
+}
+.betButtons {
+	display: flex;
+	justify-content: space-around;
+
+	margin: 10px;
+}
+.chipButtons {
+	margin: 0 auto;
+}
+.chipButtons .chipList {
+	display: flex;
+	justify-content: space-around;
+	width: 500px;
+}
+.disclaimer {
+	margin: 3px 0;
+	text-align: center;
+	color: gray;
+}
+.red {
+	color: red;
+}
+small .link {
+	color: gray;
+}

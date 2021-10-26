@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&display=swap');
+
+.styledButton {
+	width: 100%;
+	border-radius: 25px;
+
+	margin: 0 10px;
+}
+.styledButton:hover {
+	cursor: pointer;
+	transform: scale(1.03);
+	transition-duration: 0.2s;
+}
+.styledButton p {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+}

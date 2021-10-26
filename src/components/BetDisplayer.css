@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&display=swap');
+
+.betDisplayer {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+
+	width: 200px;
+	margin: auto;
+}
+.betDisplayer .amount {
+	border-bottom: 1px solid #f2bcbc;
+	width: 100px;
+}
+.betDisplayer .amount p {
+	margin: 0;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 60px;
+	text-align: right;
+	color: #ed5353;
+}
+.betDisplayer .removeButton {
+	color: #ed5353;
+	background-color: #f2bcbc;
+	border-radius: 100px;
+
+	width: 30px;
+	height: 30px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.betDisplayer .removeButton:hover {
+	cursor: pointer;
+}
+.betDisplayer .removeButton p {
+	margin: 0;
+}

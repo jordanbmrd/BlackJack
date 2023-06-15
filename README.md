@@ -15,7 +15,7 @@ Inspiration : [Alex Penny](https://dribbble.com/alexpenny)
 
 * ReactJS, CSS
 
-* API [Deck of Cards](https://deckofcardsapi.com/)
+* [Deck of Cards](https://deckofcardsapi.com/) API
 
 Cette API permet de fournir l'image des cartes au format PNG avec les valeurs correspondantes (ex: Roi, Dame, etc.)
 > Une amélioration possible serait d'importer nos propres images de cartes et d'adapter le jeu afin d'éviter d'utiliser l'API.

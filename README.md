@@ -1,10 +1,15 @@
 # Minimalist Blackjack Game
 
-**Lien du jeu : https://blkjck.netlify.app/**
+**Play game : https://blkjck.netlify.app/**
 
 ## Design
 
-Inspiration : [Alex Penny](https://dribbble.com/alexpenny).
+![Home](./images/home.png)
+![Game](./images/game.png)
+![Won](./images/won.png)
+![Lose](./images/lose.png)
+
+Inspiration : [Alex Penny](https://dribbble.com/alexpenny)
 
 ## Stack
 
